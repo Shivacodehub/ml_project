@@ -1,0 +1,20 @@
+=== Random Forest Classification Report ===
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99      1939
+           1       0.82      0.59      0.69        61
+
+    accuracy                           0.98      2000
+   macro avg       0.90      0.79      0.84      2000
+weighted avg       0.98      0.98      0.98      2000
+
+
+=== Decision Tree Classification Report ===
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99      1939
+           1       0.64      0.74      0.69        61
+
+    accuracy                           0.98      2000
+   macro avg       0.82      0.86      0.84      2000
+weighted avg       0.98      0.98      0.98      2000
